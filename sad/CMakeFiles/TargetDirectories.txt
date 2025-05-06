@@ -1,4 +1,0 @@
-/home/yoki/yadro/turing/sad/CMakeFiles/turing.dir
-/home/yoki/yadro/turing/sad/CMakeFiles/test_turing.dir
-/home/yoki/yadro/turing/sad/CMakeFiles/edit_cache.dir
-/home/yoki/yadro/turing/sad/CMakeFiles/rebuild_cache.dir
