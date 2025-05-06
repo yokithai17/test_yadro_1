@@ -1,4 +1,0 @@
-read_delay=10
-write_delay=10
-move_delay=5
-reset_delay=50

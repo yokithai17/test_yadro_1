@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/turing.dir/main.cpp.o CMakeFiles/turing.dir/src/FileTape.cpp.o CMakeFiles/turing.dir/src/TapeSorter.cpp.o -o turing 
