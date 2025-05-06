@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_turing.dir/test/sort_test.cpp.o CMakeFiles/test_turing.dir/test/tape_test.cpp.o CMakeFiles/test_turing.dir/test/test_classes.cpp.o CMakeFiles/test_turing.dir/src/FileTape.cpp.o CMakeFiles/test_turing.dir/src/TapeSorter.cpp.o -o test_turing  /usr/local/lib/libgtest.a /usr/local/lib/libgtest_main.a /usr/local/lib/libgtest.a 
