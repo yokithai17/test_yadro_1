@@ -1,0 +1,8 @@
+# IDE
+.idea
+.vscode
+
+# build
+build
+cmake-build*
+
